@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\333\\StudioProjects\\MyTitlebar01\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\title_button.xml",
+        "source": "C:\\Users\\333\\StudioProjects\\MyTitlebar01\\app\\src\\main\\res\\drawable\\title_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\333\\StudioProjects\\MyTitlebar01\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\title_list_selector.xml",
+        "source": "C:\\Users\\333\\StudioProjects\\MyTitlebar01\\app\\src\\main\\res\\drawable\\title_list_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\333\\StudioProjects\\MyTitlebar01\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_btn.xml",
+        "source": "C:\\Users\\333\\StudioProjects\\MyTitlebar01\\app\\src\\main\\res\\drawable\\main_btn.xml"
+    }
+]

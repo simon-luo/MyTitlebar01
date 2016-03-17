@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\Users\\333\\StudioProjects\\MyTitlebar01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_btn_compose_normal.png",
+        "source": "C:\\Users\\333\\StudioProjects\\MyTitlebar01\\app\\src\\main\\res\\drawable-hdpi\\mm_title_btn_compose_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\333\\StudioProjects\\MyTitlebar01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_functionframe_line.png",
+        "source": "C:\\Users\\333\\StudioProjects\\MyTitlebar01\\app\\src\\main\\res\\drawable-hdpi\\mm_title_functionframe_line.png"
+    },
+    {
+        "merged": "C:\\Users\\333\\StudioProjects\\MyTitlebar01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_btn_pressed.9.png",
+        "source": "C:\\Users\\333\\StudioProjects\\MyTitlebar01\\app\\src\\main\\res\\drawable-hdpi\\mm_title_btn_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\333\\StudioProjects\\MyTitlebar01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_btn_focused.9.png",
+        "source": "C:\\Users\\333\\StudioProjects\\MyTitlebar01\\app\\src\\main\\res\\drawable-hdpi\\mm_title_btn_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\333\\StudioProjects\\MyTitlebar01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_btn_normal.9.png",
+        "source": "C:\\Users\\333\\StudioProjects\\MyTitlebar01\\app\\src\\main\\res\\drawable-hdpi\\mm_title_btn_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\333\\StudioProjects\\MyTitlebar01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_back_pre.9.png",
+        "source": "C:\\Users\\333\\StudioProjects\\MyTitlebar01\\app\\src\\main\\res\\drawable-hdpi\\btn_back_pre.9.png"
+    },
+    {
+        "merged": "C:\\Users\\333\\StudioProjects\\MyTitlebar01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\title_bar.9.png",
+        "source": "C:\\Users\\333\\StudioProjects\\MyTitlebar01\\app\\src\\main\\res\\drawable-hdpi\\title_bar.9.png"
+    },
+    {
+        "merged": "C:\\Users\\333\\StudioProjects\\MyTitlebar01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_btn_receiver_normal.png",
+        "source": "C:\\Users\\333\\StudioProjects\\MyTitlebar01\\app\\src\\main\\res\\drawable-hdpi\\mm_title_btn_receiver_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\333\\StudioProjects\\MyTitlebar01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\333\\StudioProjects\\MyTitlebar01\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\333\\StudioProjects\\MyTitlebar01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_back_nor.9.png",
+        "source": "C:\\Users\\333\\StudioProjects\\MyTitlebar01\\app\\src\\main\\res\\drawable-hdpi\\btn_back_nor.9.png"
+    },
+    {
+        "merged": "C:\\Users\\333\\StudioProjects\\MyTitlebar01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_functionframe_pressed.9.png",
+        "source": "C:\\Users\\333\\StudioProjects\\MyTitlebar01\\app\\src\\main\\res\\drawable-hdpi\\mm_title_functionframe_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\333\\StudioProjects\\MyTitlebar01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_btn_keyboard_normal.png",
+        "source": "C:\\Users\\333\\StudioProjects\\MyTitlebar01\\app\\src\\main\\res\\drawable-hdpi\\mm_title_btn_keyboard_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\333\\StudioProjects\\MyTitlebar01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\title_btn_function.png",
+        "source": "C:\\Users\\333\\StudioProjects\\MyTitlebar01\\app\\src\\main\\res\\drawable-hdpi\\title_btn_function.png"
+    },
+    {
+        "merged": "C:\\Users\\333\\StudioProjects\\MyTitlebar01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_btn_qrcode_normal.png",
+        "source": "C:\\Users\\333\\StudioProjects\\MyTitlebar01\\app\\src\\main\\res\\drawable-hdpi\\mm_title_btn_qrcode_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\333\\StudioProjects\\MyTitlebar01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\title_function_bg.9.png",
+        "source": "C:\\Users\\333\\StudioProjects\\MyTitlebar01\\app\\src\\main\\res\\drawable-hdpi\\title_function_bg.9.png"
+    }
+]
